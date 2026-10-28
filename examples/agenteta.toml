@@ -1,0 +1,6 @@
+log_path = "examples/sample-jobs.csv"
+miss_log_path = "eta-miss-log.md"
+state_dir = ".agenteta"
+owner = "owner"
+reviewer = "reviewer"
+bots = ["bot-a", "bot-b", "bot-c"]
